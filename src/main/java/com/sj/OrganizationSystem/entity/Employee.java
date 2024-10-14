@@ -138,6 +138,4 @@ public class Employee {
 				+ updateddtm + ", updatedby=" + updatedby + ", country=" + country + "]";
 	}
 	
-	
-
 }
